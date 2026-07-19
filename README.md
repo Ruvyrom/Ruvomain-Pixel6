@@ -17,6 +17,8 @@ To implement the Ruvomain Protocol, you must have the following tools installed 
 
 - **Install** LineageOS and MicroG Plus, follow [instructions](https://wiki.lineageos.org/devices/oriole/install) here.
 
+- >**Follow** instructions for [here](https://github.com/Ruvyrom/Ruvomain-Protocole/blob/main/Imports/structure-example.json) for import JSON file.**
+
 - **[Shizuku](https://shizuku.rikka.app/)**: Allows apps to use system APIs directly without root.
 
 - **[Canta](https://github.com/samolego/Canta)**: Used to manage and uninstall system applications via Shizuku.
