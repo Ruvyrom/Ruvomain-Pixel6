@@ -17,19 +17,23 @@ To implement the Ruvomain Protocol, you must have the following tools installed 
 
 - **Install** LineageOS and MicroG Plus, follow [instructions](https://wiki.lineageos.org/devices/oriole/install) here.
 
-- **[ADB/TERMUX script](https://github.com/Ruvyrom/Ruvomain-Protocole/tree/main#2manual-execution-linuxtermuxmacos):** Do you have a specific configuration for your device? Place your JSON file in `/Imports` and call it directly when running [Manual Execution](https://github.com/Ruvyrom/Ruvomain-Protocole/tree/main#2manual-execution-linuxtermuxmacos). Feel free to share your files to help grow the community! See the [here](https://github.com/Ruvyrom/Ruvomain-Protocole/tree/main/Imports) for instructions.
+- **[ADB/TERMUX script](https://github.com/Ruvyrom/Ruvomain-Protocole/tree/main#2manual-execution-linuxtermuxmacos):** Do you have a specific configuration for your device? Place your JSON file in `/Imports` and call it directly when running [Manual Execution](https://github.com/Ruvyrom/Ruvomain-Protocole/tree/main#2manual-execution-linuxtermuxmacos). Feel free to share your files to help grow the community!
+
+For importation, see [here](https://github.com/Ruvyrom/Ruvomain-Protocole/tree/main/Imports) for instructions.
 
 **OR**
 
-- **[Shizuku](https://shizuku.rikka.app/)**: Allows apps to use system APIs directly without root.
+**[Shizuku](https://shizuku.rikka.app/)**: Allows apps to use system APIs directly without root.
 
-- **[Canta](https://github.com/samolego/Canta)**: Used to manage and uninstall system applications via Shizuku.
+with
 
-**Activate:** Enable Developer Options > Wireless Debugging. Pair Shizuku.
+**[Canta](https://github.com/samolego/Canta)**: Used to manage and uninstall system applications via Shizuku.
 
-**Deploy:** Import the preferred `.json` file from the [/config](https://github.com/Ruvyrom/Ruvomain-Pixel6/tree/main/Configs) folder into Canta.
-
-**Finalize:** Reboot the device.
+>**Activate:** Enable Developer Options > Wireless Debugging. Pair Shizuku.
+>
+>**Deploy:** Import the preferred `.json` file from the [/config](https://github.com/Ruvyrom/Ruvomain-Pixel6/tree/main/Configs) folder into Canta.
+>
+>**Finalize:** Reboot the device.
 
 ## Important Note
 **This protocol is optimized for the Pixel 6 on LineageOS 23.2 Vanilla with or without MicroG Plus.**
