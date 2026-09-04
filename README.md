@@ -21,18 +21,6 @@ To implement the Ruvomain Protocol, you must have the following tools installed 
 
 For importation, see [here](https://github.com/Ruvyrom/Ruvomain-Protocole/tree/main/Imports) for instructions.
 
-**OR**
-
-**[Shizuku](https://shizuku.rikka.app/)**: Allows apps to use system APIs directly without root.
-
-with
-
-**[Canta](https://github.com/samolego/Canta)**: Used to manage and uninstall system applications via Shizuku.
-
->**Activate:** Enable Developer Options > Wireless Debugging. Pair Shizuku.
->
->**Deploy:** Import the preferred `.json` file from the [/config](https://github.com/Ruvyrom/Ruvomain-Pixel6/tree/main/Configs) folder into Canta.
->
 >**Finalize:** Reboot the device.
 
 ## Important Note
