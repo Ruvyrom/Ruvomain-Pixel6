@@ -17,15 +17,10 @@ To implement the Ruvomain Protocol, you must have the following tools installed 
 
 - **Install** LineageOS and MicroG Plus, follow [instructions](https://wiki.lineageos.org/devices/oriole/install) here.
 
-- **[ADB/TERMUX script](https://github.com/Ruvyrom/Ruvomain-Protocole/tree/main#2manual-execution-linuxtermuxmacos):** Do you have a specific configuration for your device? Place your JSON file in `/Imports` and call it directly when running [Manual Execution](https://github.com/Ruvyrom/Ruvomain-Protocole/tree/main#2manual-execution-linuxtermuxmacos). Feel free to share your files to help grow the community!
+- **[URAAM - Universal Ruvomain ADB Apps-Manager scripts](https://github.com/Ruvyrom/Ruvomain-Protocol):** Use one of two Pixel6 JSON debloat/restore configuration present in "[/Configs](https://github.com/Ruvyrom/Ruvomain-Protocol/tree/main/Configs). Or if you have a specific configuration for your device, place your JSON file in [/Configs](https://github.com/Ruvyrom/Ruvomain-Protocol/tree/main/Configs) and call it directly when running [URAAM - ruvomain-debloat or ruvomain-restore](https://github.com/Ruvyrom/Ruvomain-Protocol/blob/main/Docs/Quick-Start-Guide.md)).
 
-For importation, see [here](https://github.com/Ruvyrom/Ruvomain-Protocole/tree/main/Imports) for instructions.
+**Feel free to [share](https://github.com/Ruvyrom/Ruvomain-Protocol/blob/main/Configs/README.md#contributing---json-files-importation) your files to help grow the community!**
 
->**Finalize:** Reboot the device.
-
-## Important Note
-**This protocol is optimized for the Pixel 6 on LineageOS 23.2 Vanilla with or without MicroG Plus.**
-For other devices, proceed with caution and verify your system compatibility. Usage on other hardware is at your own risk.
 
 ## Results Showcase
 | Energy Efficiency | Refined Interface |
@@ -50,6 +45,6 @@ For other devices, proceed with caution and verify your system compatibility. Us
 - **Result:** Even with a degraded battery, the Ruvomain Protocol ensures 4h SOT and optimized standby drain.
 
 ---
-*My other project on github for [Samsung Galaxy S24+ stock OneUI 8.5](https://github.com/Ruvyrom/Ruvomain-Protocole)*
+*My other project on github for [URAAM - Universal Ruvomain ADB Apps-Manager](https://github.com/Ruvyrom/Ruvomain-Protocole) for all Android devices*
 
 *Stay clean, stay fast, stay Ruvomain!* 🚀
