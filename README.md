@@ -17,7 +17,7 @@ To implement the Ruvomain Protocol, you must have the following tools installed 
 
 - **Install** LineageOS and MicroG Plus, follow [instructions](https://wiki.lineageos.org/devices/oriole/install) here.
 
-- **[URAAM - Universal Ruvomain ADB Apps-Manager scripts](https://github.com/Ruvyrom/Ruvomain-Protocol):** Use one of two Pixel6 JSON debloat/restore configuration present in "[/Configs](https://github.com/Ruvyrom/Ruvomain-Protocol/tree/main/Configs). Or if you have a specific configuration for your device, place your JSON file in [/Configs](https://github.com/Ruvyrom/Ruvomain-Protocol/tree/main/Configs) and call it directly when running [URAAM - ruvomain-debloat or ruvomain-restore](https://github.com/Ruvyrom/Ruvomain-Protocol/blob/main/Docs/Quick-Start-Guide.md)).
+- **[URAAM - Universal Ruvomain ADB Apps-Manager scripts](https://github.com/Ruvyrom/Ruvomain-Protocol):** Use one of two Pixel6 JSON debloat/restore configuration present in "[/Configs](https://github.com/Ruvyrom/Ruvomain-Protocol/tree/main/Configs). Or if you have a specific configuration for your device, place your JSON file in [/Configs](https://github.com/Ruvyrom/Ruvomain-Protocol/tree/main/Configs) and call it directly when running [URAAM - ruvomain-debloat or ruvomain-restore](https://github.com/Ruvyrom/Ruvomain-Protocol/blob/main/Docs/Quick-Start-Guide.md).
 
 **Feel free to [share](https://github.com/Ruvyrom/Ruvomain-Protocol/blob/main/Configs/README.md#contributing---json-files-importation) your files to help grow the community!**
 
